@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceControl</string>
+    <string name="accessibility_description">Lets VoiceControl read the screen and perform taps, scrolls and typing on your behalf.</string>
+</resources>
